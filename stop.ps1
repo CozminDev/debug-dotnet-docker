@@ -1,0 +1,1 @@
+docker kill debug-net-containers
